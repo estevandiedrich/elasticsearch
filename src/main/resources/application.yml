@@ -1,0 +1,11 @@
+spring:
+  application:
+    name: sample-spring-elasticsearch
+  elasticsearch:
+    uris: https://172.19.0.2:9200
+    username: elastic
+    password: 4BCpzhBlff0KMQajdsxG
+    
+
+initial-import:
+  enabled: false
